@@ -1,3 +1,8 @@
+image:
+  file: .gitpod.Dockerfile
+
 ports:
   - port: 3000
-    onOpen: open-preview
+vscode:
+  extensions:
+    - wingrunr21.vscode-ruby@0.27.0:beIqQUhLRuJ5Vao4B2Lyng==
